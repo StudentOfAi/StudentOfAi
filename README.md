@@ -33,7 +33,7 @@ Python + AI Models + FFmpeg + PyTorch + TypeScript + REST APIs
 - **[reddit-lead-gen-analytics](https://github.com/StudentOfAi/reddit-lead-gen-analytics)** — Automated Reddit scraping and pain-point analysis for market intelligence.
 
 ### Algorithms & Heuristics
-- **[ai-game-solvers](https://github.com/StudentOfAi/ai-game-solvers)** — Autonomous 0-player game solvers. Minesweeper CSP, Pac-Man A* pathfinding, Word Search KMP string matching.
+- **[ai-game-solvers](https://studentofai.github.io/ai-game-solvers/)** — Autonomous 0-player game solvers, live and playable in-browser. Minesweeper CSP, Pac-Man A* pathfinding, Word Search 8-directional scanner, Snake BFS auto-pilot. [▶ Play live](https://studentofai.github.io/ai-game-solvers/) · [Code](https://github.com/StudentOfAi/ai-game-solvers)
 
 ## Tech Stack
 
